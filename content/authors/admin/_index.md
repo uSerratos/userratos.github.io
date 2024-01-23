@@ -18,7 +18,7 @@ role: Human Movement Science Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Max Planck UCL Centre for Computational Psychiatry and Ageing Research and Wellcome Centre for Human Neuroimaging
+  - name: Wellcome Centre for Human Neuroimaging
     url: https://www.fil.ion.ucl.ac.uk/team/threat-avoidance/
 
 # Short bio (displayed in user profile at end of posts)
