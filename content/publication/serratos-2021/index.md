@@ -1,0 +1,45 @@
+---
+title: A novel method for the characterisation of human upper limb workspace with
+  respect to dexterity
+authors:
+- Ulises Daniel Serratos Hernandez
+date: '2021-01-01'
+publishDate: '2024-01-23T22:44:55.671515Z'
+publication_types:
+- thesis
+abstract: Human dexterity is a complex phenomenon associated to physiological and
+  cognitive factors that affect the execution of precise movements. Dexterity is strongly
+  linked to upper limb (UL) functionality and performance, and its study is important
+  for clinical analysis, ergonomics, sports biomechanics, design, rehabilitation,
+  and human-machine interactions. However, its understanding is quite limited. Dexterity
+  is commonly assessed through time-dependent dexterity tests that can determine the
+  successful completion of tasks on test boards paced in front of the participant.
+  However, such tests cannot inform about participant performance in other regions
+  of the corresponding UL workspace volume (WV), and they can only collect data related
+  to specific tasks, and therefore, cannot predict UL performance for the execution
+  of other tasks.  This thesis establishes a time-independent novel method for the
+  characterisation of UL workspace with respect to dexterity; the “Dexterity Analysis
+  Method” (DAM), which is based on the manipulability analysis method (used in robotics
+  to quantify robot manipulability). The DAM is flexible, versatile, and scalable.
+  It can be used to analyse real and virtual individuals or populations using direct
+  measures or statistical data. Moreover, the DAM allows adding human factors, and
+  to assigning their weights for adjustment and calibration. Hence, the DAM is a powerful
+  tool that can help to evaluate performance, assess healthiness, optimise implants
+  and prosthetics, design ergonomic workplaces and homes, develop assistive devices,
+  and conduct pre- and post-surgery evaluations. Moreover, this work, as implemented
+  in the DAM, promotes the use of WV as an objective reference to map performance,
+  healthiness, and dexterity. Finally, the DAM contributes to closing the knowledge
+  gaps on the understanding and quantification of UL motion, workspace, and dexterity.
+  However, the DAM still needs to be fully validated as the experimental results obtained
+  in this research with such purpose were not conclusive.   A real-life application
+  of the DAM is illustrated in Chapter 7 of this work, which analyses the effects
+  of reverse shoulder arthroplasty (RSA) on WV and dexterity. The results indicate
+  that WV for healthy people can be around 32% larger than those for people with RSA.
+  However, it was found that greater WV do not necessarily translate into larger high
+  dexterity regions, and the effects of reductions in ROM on WV depend on the extreme
+  at which such reductions occur. For instance, a decrease of 15° in elbow extension
+  reduces 2% of 2-D reachability, whereas a decrease of 15° in elbow flexion only
+  reduces it by 10.8%. Therefore, surgeons should carefully consider such factors
+  when making decisions during joint surgery, reconstruction, and implant position
+  optimisation.
+---
