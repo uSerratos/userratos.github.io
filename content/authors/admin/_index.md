@@ -47,20 +47,22 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
-    items:
-      - name: Coding
-        description: 'Python, Matlab, C#'
-        icon: hero/code-bracket
-        icon_pack: hero
-      - name: Movement Science
-        description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
-        icon: running
-        icon_pack: custom
-      - name: Virtual Reality
-        description: 'Unity, HTC Vive, Oculus Quest'
-        icon: vr
-        icon_pack: custom
+  - name: Technical  
+    # - name: Coding
+    Coding:
+      description: 'Python, Matlab, C#'
+      icon: hero/code-bracket
+      icon_pack: hero
+    Movement Science:
+    # - name: Movement Science
+      description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
+      icon: running
+      icon_pack: custom
+    Virtual Reality:
+    # - name: Virtual Reality
+      description: 'Unity, HTC Vive, Oculus Quest'
+      icon: vr
+      icon_pack: custom
 
 
 # Social/Academic Networking
