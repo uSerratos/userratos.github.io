@@ -65,7 +65,7 @@ sections:
         - title: Research Fellow in Human Motion Sequencing
           company: Max Planck UCL Centre for Computational Psychiatry and Ageing Research and Wellcome Centre for Human Neuroimaging
           company_url: https://www.fil.ion.ucl.ac.uk/team/threat-avoidance/
-          company_logo: org-ucl2
+          company_logo: org-ucl3
           location: UK
           date_start: '2020-10-14'
           date_end: ''
