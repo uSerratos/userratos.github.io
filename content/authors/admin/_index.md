@@ -49,21 +49,21 @@ education:
 skills:
   - name: Technical  
     items:
-      - name: 'Python, Matlab, C#'
-        description: ''
-        percent: 80
-        icon: code-bracket
-        icon_pack: hero
-      - name: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
-        description: ''
+      - name: 'Coding'
+        description: 'Python, Matlab, C#'
         percent: 100
-        icon: running
-        icon_pack: custom
-      - name: 'Unity, HTC Vive, Oculus Quest'
-        description: ''
-        percent: 40
-        icon: vr
-        icon_pack: custom
+        icon: envelope
+        icon_pack: fas
+      - name: 'Movement Science'
+        description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
+        percent: 100
+        icon: envelope
+        icon_pack: fas
+      - name: 'VR'
+        description: 'Unity, HTC Vive, Oculus Quest'
+        percent: 100
+        icon: envelope
+        icon_pack: fas
   # Coding:
   #   description: 'Python, Matlab, C#'
   #   icon: hero/code-bracket
