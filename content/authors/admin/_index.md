@@ -51,7 +51,7 @@ skills:
     items:
       - name: Coding
         description: 'Python, Matlab, C#'
-        icon: code-bracket
+        icon: hero/code-bracket
         icon_pack: hero
       - name: Movement Science
         description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
