@@ -70,7 +70,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto: "/#contact"
+    link: mailto: /#contact
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oGivUJgAAAAJ&hl=en
