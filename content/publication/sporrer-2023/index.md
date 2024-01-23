@@ -1,5 +1,5 @@
 ---
-title: Functional sophistication in human escape
+title: "Functional sophistication in human escape"
 authors:
 - J. K. Sporrer
 - J. Brookes
@@ -32,4 +32,5 @@ tags:
 - Biological sciences
 - Computer science
 - Neuroscience
+featured: true
 ---
