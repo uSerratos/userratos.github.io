@@ -70,7 +70,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto: ulises.serratos@ucl.ac.uk'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oGivUJgAAAAJ&hl=en
@@ -83,6 +83,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1645-6999
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Ulises-Daniel-Serratos-Hernandez
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -95,5 +98,5 @@ highlight_name: true
 
 ---
 
-Human movement science researcher with interdisciplinary experience in human motion modelling through Virtual Reality experimental set ups that recreate realistic and immersive environments. Ulises main skills are human motion modelling, data acquisition and processing, dexterity characterisation, workspace analysis, as well as design and implementation of Virtual Reality environments for human motion studies. His PhD research proposed a novel method for the quantification and characterisation of human upper limb dexterity acknowledging uncertainty within the analysis, a method that combines the use of manipulability analysis (widely used in robotics), workspace analysis and the study of joint range of motion. His current research, at the UCL (London, UK), focuses on human motion sequencing to understand and characterize human behaviour for threat avoidance. The experimental set up employs Virtual Reality for an immersive experience, in which participant movements are recorded through both marker-based and marker-less motion capture systems. Ulises research interests are human movement behaviour, action classification, human dexterity, and biomechanics combined with the use of new technologies such as Virtual Reality, Machine Learning, and Neural Networks.
-{style="text-align: justify;"}
+<!-- Human movement science researcher with interdisciplinary experience in human motion modelling through Virtual Reality experimental set ups that recreate realistic and immersive environments. Ulises main skills are human motion modelling, data acquisition and processing, dexterity characterisation, workspace analysis, as well as design and implementation of Virtual Reality environments for human motion studies. His PhD research proposed a novel method for the quantification and characterisation of human upper limb dexterity acknowledging uncertainty within the analysis, a method that combines the use of manipulability analysis (widely used in robotics), workspace analysis and the study of joint range of motion. His current research, at the UCL (London, UK), focuses on human motion sequencing to understand and characterize human behaviour for threat avoidance. The experimental set up employs Virtual Reality for an immersive experience, in which participant movements are recorded through both marker-based and marker-less motion capture systems. Ulises research interests are human movement behaviour, action classification, human dexterity, and biomechanics combined with the use of new technologies such as Virtual Reality, Machine Learning, and Neural Networks.
+{style="text-align: justify;"} -->
