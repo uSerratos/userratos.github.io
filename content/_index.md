@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Profile
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -219,7 +219,7 @@ sections:
         May you wish to contact me, please fill out the form!
       # Contact (add or remove contact options as necessary)
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
         provider: netlify
