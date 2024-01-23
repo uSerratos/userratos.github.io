@@ -74,7 +74,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
-          company_logo: org-x
+          company_logo: org-sheff
           location: UK
           date_start: '2017-02-01'
           date_end: '2020-02-28'
