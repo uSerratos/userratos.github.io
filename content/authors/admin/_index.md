@@ -48,13 +48,12 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   # - name: Technical  
-  #   items:
+  items:
   - name: 'Coding'
-      items:
-        description: 'Python, Matlab, C#'
-        percent: 100
-        icon: python
-        icon_pack: fab
+    description: 'Python, Matlab, C#'
+    percent: 100
+    icon: python
+    icon_pack: fab
   - name: 'Movement Science'
     description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
     percent: 100
