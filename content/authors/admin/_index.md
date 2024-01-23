@@ -52,18 +52,18 @@ skills:
     - name: 'Coding'
       description: 'Python, Matlab, C#'
       percent: 100
-      icon: python
-      icon_pack: fab
+      icon: code
+      icon_pack: fas
     - name: 'Movement Science'
       description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
       percent: 100
-      icon: python
-      icon_pack: fab
+      icon: person-walking
+      icon_pack: fas
     - name: 'VR'
       description: 'Unity, HTC Vive, Oculus Quest'
       percent: 100
-      icon: python
-      icon_pack: fab
+      icon: vr-cardboard
+      icon_pack: fas
 
 
 # Social/Academic Networking
