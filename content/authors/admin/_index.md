@@ -50,10 +50,11 @@ skills:
   # - name: Technical  
   #   items:
   - name: 'Coding'
-    description: 'Python, Matlab, C#'
-    percent: 100
-    icon: python
-    icon_pack: fab
+      items:
+        description: 'Python, Matlab, C#'
+        percent: 100
+        icon: python
+        icon_pack: fab
   - name: 'Movement Science'
     description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
     percent: 100
