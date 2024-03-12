@@ -26,9 +26,10 @@ bio: true
 
 # Interests to show in About widget
 interests:
+  - Data Science
+  - Machine Learning
   - Human Movement Sciecne
   - Action Classification
-  - Artificial Intelligence
   - Biomechanics
 
 # Education to show in About widget
@@ -62,8 +63,8 @@ skills:
     - name: 'ML Libraries'
       description: 'Scikit-learn, Pandas, NumPy, Matplotlib'
       percent: 100
-      icon: file-code-o
-      icon_pack: fas
+      icon: command-line
+      icon_pack: hero
     - name: 'Movement Science'
       description: 'Marker-based (e.g., Vicon Motion Systems, CODA motion), and marker-less (Openpose, DeepLabCut, OpenCV), Action Classification, Motion Modelling'
       percent: 100
