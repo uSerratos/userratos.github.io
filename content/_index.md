@@ -71,6 +71,14 @@ sections:
           date_end: ''
           description: |2-
               His research focuses on human motion sequencing to understand and characterize human behaviour for threat avoidance. The experimental set up employs Virtual Reality for an immersive experience, whereas participant movements are recorded through both marker-based and marker-less motion capture systems.
+        - title: Doctor of Phylosofy Candidate
+          company: The University of Sheffield
+          company_url: https://www.sheffield.ac.uk/
+          company_logo: org-sheff
+          location: UK
+          date_start: '2016-10-20'
+          date_end: '2020-10-20'
+          description: My doctoral research established a novel framework for quantifying upper limb dexterity, integrating manipulability, workspace, and range of motion analysis.
         - title: Graduate Teaching Assistant
           company: The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
@@ -78,6 +86,14 @@ sections:
           location: UK
           date_start: '2017-02-01'
           date_end: '2020-02-28'
+          description: Graduate Teaching Assistant for the Deparment of Mechanical Engineering | MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
+        - title: Principal Investigator (INSIGNEO Summer Research Programme)
+          company: INSIGNEO, Department of Mechanical Engineering, The University of Sheffield
+          company_url: https://www.sheffield.ac.uk/
+          company_logo: org-sheff
+          location: UK
+          date_start: '2019-07-01'
+          date_end: '2019-11-01'
           description: Graduate Teaching Assistant for the Deparment of Mechanical Engineering | MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
     design:
       columns: '2'
