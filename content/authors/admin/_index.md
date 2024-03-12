@@ -63,8 +63,8 @@ skills:
     - name: 'ML Libraries'
       description: 'Scikit-learn, Pandas, NumPy, Matplotlib'
       percent: 100
-      icon: command-line
-      icon_pack: hero
+      icon: code
+      icon_pack: fas
     - name: 'Movement Science'
       description: 'Marker-based (e.g., Vicon Motion Systems, CODA motion), and marker-less (Openpose, DeepLabCut, OpenCV), Action Classification, Motion Modelling'
       percent: 100
