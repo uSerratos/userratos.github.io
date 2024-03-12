@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Human Movement Science Researcher
+role: Human Movement | Data Science | Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
