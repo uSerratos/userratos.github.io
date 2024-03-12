@@ -50,12 +50,22 @@ skills:
   - name: ''  
     items:
     - name: 'Coding'
-      description: 'Python, Matlab, C#'
+      description: 'Python, MATLAB, C#, Version control (GitHub, Gitlab, Bitbucket)'
       percent: 100
       icon: code
       icon_pack: fas
+    - name: 'Machine Learning'
+      description: 'Supervised and unsupervised (e.g., decision trees, random forest, regression, bayes, density-based, hierarchical, and k-means)'
+      percent: 100
+      icon: pie-chart
+      icon_pack: fas
+    - name: 'ML Libraries'
+      description: 'Scikit-learn, Pandas, NumPy, Matplotlib'
+      percent: 100
+      icon: file-code-o
+      icon_pack: fas
     - name: 'Movement Science'
-      description: 'Motion Capture (Vicon, CODA, Qualisys), Biomechanics, Action Classification, Dexterity, Modelling'
+      description: 'Marker-based (e.g., Vicon Motion Systems, CODA motion), and marker-less (Openpose, DeepLabCut, OpenCV), Action Classification, Motion Modelling'
       percent: 100
       icon: person-walking
       icon_pack: fas
@@ -63,6 +73,11 @@ skills:
       description: 'Unity, HTC Vive, Oculus Quest'
       percent: 100
       icon: vr-cardboard
+      icon_pack: fas
+    - name: 'Languages'
+      description: 'Spanish (Native), English, German (Basic-Intermediate)'
+      percent: 100
+      icon: language
       icon_pack: fas
 
 
