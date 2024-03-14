@@ -70,7 +70,7 @@ sections:
           date_start: '2020-10-14'
           date_end: ''
           description: |2-
-              His research focuses on human motion sequencing to understand and characterize human behaviour for threat avoidance. The experimental set up employs Virtual Reality for an immersive experience, whereas participant movements are recorded through both marker-based and marker-less motion capture systems.
+              My work involves developing an unsupervised clustering model to identify fundamental movement motifs (“syllables”) and sequences (“grammar”) to create a comprehensive dictionary of threat avoidance actions, as well as a robust classification system. 
         - title: Doctor of Phylosofy Candidate
           company: The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
@@ -86,7 +86,7 @@ sections:
           location: UK
           date_start: '2017-02-01'
           date_end: '2020-02-28'
-          description: Graduate Teaching Assistant for the Deparment of Mechanical Engineering | MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
+          description: Graduate Teaching Assistant (Deparment of Mechanical Engineering) for the modules: MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
         - title: Principal Investigator (INSIGNEO Summer Research Programme)
           company: INSIGNEO, Department of Mechanical Engineering, The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
@@ -94,7 +94,7 @@ sections:
           location: UK
           date_start: '2019-07-01'
           date_end: '2019-11-01'
-          description: Graduate Teaching Assistant for the Deparment of Mechanical Engineering | MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
+          description: Led a 12-week Insigneo Summer Research Programme project at the University of Sheffield. Designed research objectives, experimental protocols, and secured ethics approval. Supervised and mentored an undergraduate student, fostering their interest in the field of in silico medicine.
     design:
       columns: '2'
   # - block: accomplishments
