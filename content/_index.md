@@ -86,7 +86,7 @@ sections:
           location: UK
           date_start: '2017-02-01'
           date_end: '2020-02-28'
-          description: Graduate Teaching Assistant (Deparment of Mechanical Engineering) for the modules: MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
+          description: Graduate Teaching Assistant (Deparment of Mechanical Engineering) for the modules MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
         - title: Principal Investigator (INSIGNEO Summer Research Programme)
           company: INSIGNEO, Department of Mechanical Engineering, The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
