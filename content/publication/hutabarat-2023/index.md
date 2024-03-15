@@ -4,7 +4,7 @@ title: 'Biomechanical constraints on escape from threat in virtual reality: Prel
 authors:
 - Yonatan Hutabarat
 - Lukas Kornemann
-- Ulises Daniel Serratos Hernandez
+- **Ulises Daniel Serratos Hernandez**
 - Juliana K. Sporrer
 - Jack Brookes
 - Samson Hall
