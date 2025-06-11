@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Human Movement | Data Science | Researcher
+role: Data Science | ML | Researcher | Human Movement
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,17 +51,17 @@ skills:
   - name: ''  
     items:
     - name: 'Coding'
-      description: 'Python, MATLAB, C#, Version control (GitHub, Gitlab, Bitbucket)'
+      description: 'Python (Expert: Pandas, NumPy, Scikit-learn, Matplotlib), SQL, MATLAB, Version Control (Git, GitHub, GitLab, Bitbucket)'
       percent: 100
       icon: code
       icon_pack: fas
     - name: 'Machine Learning'
-      description: 'Supervised and unsupervised (e.g., decision trees, random forest, regression, bayes, density-based, hierarchical, and k-means)'
+      description: 'Algorithms: Unsupervised Clustering (K-Means, Hierarchical, Density-based), Supervised Classification (Decision Trees, Random Forest), Regression, Bayesian Methods. Techniques: Feature Engineering, Dimensionality Reduction (e.g., PCA, T-SNE, UMAP), Model Training & Evaluation, Statistical Analysis, Time Series Analysis.'
       percent: 100
       icon: pie-chart
       icon_pack: fas
     - name: 'ML Libraries'
-      description: 'Scikit-learn, Pandas, NumPy, Matplotlib'
+      description: 'Scikit-learn, Pandas, NumPy, Matplotlib, Pytorch'
       percent: 100
       icon: code
       icon_pack: fas
@@ -117,5 +117,5 @@ highlight_name: true
 
 ---
 
-Human movement and data science researcher with expertise in machine learning, action classification, motion tracking, and human motion modelling. My doctoral research established a novel framework for quantifying upper limb dexterity, integrating manipulability, workspace, and range of motion analysis. Currently, I apply immersive virtual reality and advanced machine learning techniques to dissect the fundamental components of human threat avoidance behaviour. My work involves developing an unsupervised clustering model to identify fundamental movement motifs ("syllables") and sequences ("grammar") to create a comprehensive dictionary of threat avoidance actions, as well as a robust classification system. This research encompasses motion capture (marker-based and marker-less), data curation, feature engineering, dimensionality reduction, and model implementation and evaluation in Python (scikit-learn). My overarching goal is to leverage artificial intelligence to understand complex human movement patterns and address real-world challenges.
+PhD-educated Data Scientist with 5+ years of research experience applying machine learning, statistical analysis, and Python to extract insights from complex datasets, primarily high-dimensional human motion data. Proven expertise in the end-to-end data science lifecycle: from data acquisition (motion capture, VR) and curation to feature engineering, dimensionality reduction, unsupervised (clustering) and supervised (classification) model development, and evaluation using Python (Scikit-learn, Pandas, NumPy). Seeking to leverage advanced analytical and ML skills to solve challenging business problems and drive data-informed decisions in a Data Science, ML, or Analytics role.
 {style="text-align: justify;"}
