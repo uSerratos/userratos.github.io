@@ -1,4 +1,3 @@
----
 # Display name
 title: Ulises Daniel Serratos Hernandez
 
@@ -22,13 +21,13 @@ organizations:
     url: https://www.fil.ion.ucl.ac.uk/team/threat-avoidance/
 
 # Short bio (displayed in user profile at end of posts)
-bio: true
+bio: true # This can be your short bio text, or `true` to use the text below.
 
 # Interests to show in About widget
 interests:
   - Data Science
   - Machine Learning
-  - Human Movement Sciecne
+  - Human Movement Science
   - Action Classification
   - Biomechanics
 
@@ -48,7 +47,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: ''  
+  - name: 'Technical Skills'
     items:
     - name: 'Coding'
       description: 'Python (Expert: Pandas, NumPy, Scikit-learn, Matplotlib), SQL, MATLAB, Version Control (Git, GitHub, GitLab, Bitbucket)'
@@ -58,7 +57,7 @@ skills:
     - name: 'Machine Learning'
       description: 'Algorithms: Unsupervised Clustering (K-Means, Hierarchical, Density-based), Supervised Classification (Decision Trees, Random Forest), Regression, Bayesian Methods. Techniques: Feature Engineering, Dimensionality Reduction (e.g., PCA, T-SNE, UMAP), Model Training & Evaluation, Statistical Analysis, Time Series Analysis.'
       percent: 100
-      icon: pie-chart
+      icon: chart-pie # Corrected icon name
       icon_pack: fas
     - name: 'ML Libraries'
       description: 'Scikit-learn, Pandas, NumPy, Matplotlib, Pytorch'
@@ -75,22 +74,26 @@ skills:
       percent: 100
       icon: vr-cardboard
       icon_pack: fas
-    - name: 'Languages'
-      description: 'Spanish (Native), English, German (Basic-Intermediate)'
+  - name: 'Languages'
+    items:
+    - name: 'Spanish & English'
+      description: 'Spanish (Native), English (Fluent)'
       percent: 100
+      icon: language
+      icon_pack: fas
+    - name: 'German'
+      description: 'Basic-Intermediate'
+      percent: 40
       icon: language
       icon_pack: fas
 
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto: ulises.serratos@ucl.ac.uk" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: ulises.serratos@ucl.ac.uk'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: 'mailto:ulises.serratos@ucl.ac.uk'
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oGivUJgAAAAJ&hl=en
   - icon: github
@@ -105,17 +108,11 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Ulises-Daniel-Serratos-Hernandez
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  # - icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
 ---
 
+<div class="text-justify">
 PhD-educated Data Scientist with 5+ years of research experience applying machine learning, statistical analysis, and Python to extract insights from complex datasets, primarily high-dimensional human motion data. Proven expertise in the end-to-end data science lifecycle: from data acquisition (motion capture, VR) and curation to feature engineering, dimensionality reduction, unsupervised (clustering) and supervised (classification) model development, and evaluation using Python (Scikit-learn, Pandas, NumPy). Seeking to leverage advanced analytical and ML skills to solve challenging business problems and drive data-informed decisions in a Data Science, ML, or Analytics role.
-{style="text-align: justify;"}
+</div>
