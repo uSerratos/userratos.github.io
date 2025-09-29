@@ -18,8 +18,8 @@ role: Data Science | ML | Researcher | Human Movement
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wellcome Centre for Human Neuroimaging
-    url: https://www.fil.ion.ucl.ac.uk/team/threat-avoidance/
+  - name: University College London
+    url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: true
@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Doctor of Philosophy in Mechanical Engineering
+    - course: Doctor of Philosophy (Engineering)
       institution: The University of Sheffield
       year: 2021
     - course: Master of Engineering
@@ -85,11 +85,11 @@ skills:
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto: ulises.serratos@ucl.ac.uk" or "/#contact" for contact widget.
+#   form "mailto: daniel.serratos@gmail.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: ulises.serratos@ucl.ac.uk'
+    link: 'mailto: daniel.serratos@gmail.com'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oGivUJgAAAAJ&hl=en
@@ -117,5 +117,5 @@ highlight_name: true
 
 ---
 
-PhD-educated Data Scientist with 5+ years of research experience applying machine learning, statistical analysis, and Python to extract insights from complex datasets, primarily high-dimensional human motion data. Proven expertise in the end-to-end data science lifecycle: from data acquisition (motion capture, VR) and curation to feature engineering, dimensionality reduction, unsupervised (clustering) and supervised (classification) model development, and evaluation using Python (Scikit-learn, Pandas, NumPy). Seeking to leverage advanced analytical and ML skills to solve challenging business problems and drive data-informed decisions in a Data Science, ML, or Analytics role.
+PhD-educated Data Scientist specializing in applying advanced machine learning and statistical analysis to complex time-series and physiological data. Possesses over five years of hands-on experience building robust data pipelines in Python (Pandas, NumPy, Scikit-learn, PyTorch) and SQL. Expert in the full data science workflow, including data curation, advanced feature engineering, dimensionality reduction (PCA, UMAP), and developing hybrid models. A key project involved using unsupervised clustering (HDBSCAN) to discover novel features ("syllables of movement") from raw data, which then powered a highly accurate Random Forest classifier to predict complex human behaviours.
 {style="text-align: justify;"}

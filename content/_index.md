@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-09-29
 type: landing
 
 sections:
@@ -63,14 +63,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Fellow in Human Motion Sequencing
-          company: Max Planck UCL Centre for Computational Psychiatry and Ageing Research and Wellcome Centre for Human Neuroimaging
-          company_url: https://www.fil.ion.ucl.ac.uk/team/threat-avoidance/
+          company: University College London
+          company_url: https://www.ucl.ac.uk/
           company_logo: org-ucl3
           location: UK
           date_start: '2020-10-14'
           date_end: ''
           description: |2-
-              My work involves developing an unsupervised clustering model to identify fundamental movement motifs (“syllables”) and sequences (“grammar”) to create a comprehensive dictionary of threat avoidance actions, as well as a robust classification system. 
+              •	Developed unsupervised clustering pipelines (Python, Scikit-learn) to identify foundational movement patterns in high-dimensional VR motion data.
+              •	Built and evaluated supervised classifiers (Random Forest) to categorize complex human threat-avoidance behaviours from motion capture data.
+              •	Managed the end-to-end data science workflow, from acquisition of complex motion datasets to feature engineering and dimensionality reduction.
+              •	Engineered data processing pipelines using marker-less motion tracking analysis.
+              •	Authored and co-authored publications and disseminated research at int. conferences.
+              •	Co-secured over £212k for research infrastructure funding across two grants (2024, 2025).
+
         - title: Doctor of Phylosofy Candidate
           company: The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
@@ -78,7 +84,7 @@ sections:
           location: UK
           date_start: '2016-10-20'
           date_end: '2020-10-20'
-          description: My doctoral research established a novel framework for quantifying upper limb dexterity, integrating manipulability, workspace, and range of motion analysis.
+          description: Developed computational framework (MATLAB) involving complex data analysis, modelling (manipulability, workspace), uncertainty propagation. 
         - title: Graduate Teaching Assistant
           company: The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
@@ -86,7 +92,7 @@ sections:
           location: UK
           date_start: '2017-02-01'
           date_end: '2020-02-28'
-          description: Graduate Teaching Assistant (Deparment of Mechanical Engineering) for the modules MATLAB, Design Innovation Toolbox, Integrated Design Skills, Strategic Engineering Management and Business Practices, Danger Lab.
+          description: Instructed undergraduate students in technical subjects including MATLAB, engineering design software, and data analysis, adeptly translating complex concepts for a diverse student audience.
         - title: Principal Investigator (INSIGNEO Summer Research Programme)
           company: INSIGNEO, Department of Mechanical Engineering, The University of Sheffield
           company_url: https://www.sheffield.ac.uk/
@@ -94,7 +100,7 @@ sections:
           location: UK
           date_start: '2019-07-01'
           date_end: '2019-11-01'
-          description: Led a 12-week Insigneo Summer Research Programme project at the University of Sheffield. Designed research objectives, experimental protocols, and secured ethics approval. Supervised and mentored an undergraduate student, fostering their interest in the field of in silico medicine.
+          description: Directed a research project on upper limb manipulability, overseeing study design, data analysis (MATLAB/Python), and the communication of final results.
     design:
       columns: '2'
   # - block: accomplishments
@@ -235,7 +241,7 @@ sections:
         May you wish to contact me, please fill out the form!
       # Contact (add or remove contact options as necessary)
       # Automatically link email and phone or display as text?
-      autolink: false
+      autolink: true
       # Email form provider
       form:
         provider: netlify
